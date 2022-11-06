@@ -25,4 +25,4 @@ Download Link for GithubCLI ->  https://cli.github.com/
 
 5> NOTE -> Download the repo as zip do not clone the repo code
 
-
+6> Video Demo on how to use Script is also attached in the Repo 
